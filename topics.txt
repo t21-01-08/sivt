@@ -1,0 +1,5 @@
+1. Operační systémy
+2. Základy programování cpp
+3. OOP v cpp
+4. Verzovací systémy
+5. web
