@@ -1,0 +1,9 @@
+git commit -> uloží změnu
+
+git status -> ukáže stav změn
+
+git branch -> vytvoří větev
+
+git init -> vytvoří repozitář
+
+git log -> ukáže historii repozitáře
