@@ -1,0 +1,4 @@
+1. základní kalkulačka v cpp
+2. zakladní přihlašovací zařízení v cpp
+3. primitivní obchod (tak jako ve hrách) v cpp
+4. výpis vlastností různých objektů pomocí OOP v cpp 
