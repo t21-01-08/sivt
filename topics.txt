@@ -3,3 +3,12 @@
 3. OOP v cpp
 4. Verzovací systémy
 5. web a html i css
+---------------------
+PRVNÍ ROČNÍK
+1. hardware
+2. teorie informace
+3. kyberbezpečnost
+---------------------
+DRUHÝ ROČNÍK
+1. databáze a SQL
+2. programování v Pythonu
